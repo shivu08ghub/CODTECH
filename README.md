@@ -26,6 +26,12 @@ The objective of this project is to perform comprehensive analysis of historical
 - **Modeling:** Statsmodels (for ARIMA), TensorFlow/Keras (for LSTM)
 - **Evaluation and Visualization:** Scikit-learn, Plotly, Matplotlib
 
+### Key Insights
+- **Trend Analysis**
+- **Correlation Identification**
+- **Model Performance**
+- **Predictive Accuracy**
+- **Investment Insights**
 
 ### Output:
 
