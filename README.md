@@ -25,3 +25,11 @@ The objective of this project is to perform comprehensive analysis of historical
 - **Data Preprocessing and EDA:** Python, Pandas, NumPy, Matplotlib, Seaborn
 - **Modeling:** Statsmodels (for ARIMA), TensorFlow/Keras (for LSTM)
 - **Evaluation and Visualization:** Scikit-learn, Plotly, Matplotlib
+
+
+### Output:
+
+![Figure_apple closing prices](https://github.com/user-attachments/assets/1755e1cd-721d-46ad-96d2-3dcbe655e257)
+![Figure_fprecast using LSTM](https://github.com/user-attachments/assets/65c32275-2c13-4be9-adc5-9762399ee61f)
+![Figure_forecast using ARIMA](https://github.com/user-attachments/assets/edab6ec9-950d-4f4b-b90b-50aca6197245)
+
